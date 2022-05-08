@@ -1,0 +1,14 @@
+{
+  "manifest": {
+    "version": "0.0.1",
+    "name": "TogeInumaki",
+    "transparency_mode": 3,
+    "author": "ftrcdr"
+  },
+  "background": {
+    "url": "https://media.discordapp.net/attachments/489492057711443968/972967783975501884/Group_2.png?width=304&height=676"
+  },
+  "simple_colors": {},
+  "colors": {},
+  "drawable_tints": {}
+}
